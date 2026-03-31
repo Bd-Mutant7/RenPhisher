@@ -54,5 +54,5 @@ You can view the screenshot of the tool here:
 
 # 👤 Developer
 
-Created by: MrWhite4939
+
 If you find the project useful, consider giving the repository a ⭐ on GitHub.
