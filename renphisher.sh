@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # RenPhisher 
-# Moded by @MrWhite4939
 
-# Follow me in My Github: https://github.com/mrwhite4939
+
+
 
 
 trap 'printf "\n";stop;exit 1' 2
